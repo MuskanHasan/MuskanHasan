@@ -1,5 +1,5 @@
-HELLO!  
-This is Muskan Hasan 👋
+Hello!  
+This is Muskan Hasan 👋  🧑‍🎤
 
 <!-- **iMuskanHasan/iMuskanHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -15,11 +15,13 @@ This is Muskan Hasan 👋
 <h3>Connect with me:</h3>  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muskanhasan)  
 
-<h3>🔧 Tools & Technologies:</h3>  
+<h3>🔧 Tools & Languages:</h3>  
 <p align="left"> 
     <a href="https://www.jira.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/> 
     </a> 
+    <br/>JIRA
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>  
 
 ---
@@ -27,9 +29,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muskanhas
 <h3>🔥 My Stats:</h3>
 <p>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MuskanHasan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<h3>🌍 Most Used Language:</h3>
-<p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
