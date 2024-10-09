@@ -1,5 +1,5 @@
 HELLO!  
-This is Muskan Hasan 👋  🧑‍🎤
+This is Muskan Hasan 👋  
 
 - Currently working as a Software Quality Assurance Engineer with a focus on ensuring software reliability and quality.  
 - Skilled in manual testing, test case creation, bug reporting, and familiar with tools like JIRA.  
