@@ -18,7 +18,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muskanhas
 <h3>🔧 Tools & Technologies:</h3>  
 <p align="left"> 
     <a href="https://www.jira.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40" style="animation: bounce 2s infinite;"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/> 
     </a> 
 </p>  
 
@@ -26,51 +26,10 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muskanhas
 
 <h3>🔥 My Stats:</h3>
 <p>
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MuskanHasan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="animation: pulse 2s infinite;"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=MuskanHasan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <h3>🌍 Most Used Language:</h3>
 <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" style="animation: shake 2s infinite;"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </p>
-
-<style>
-@keyframes bounce {
-  0%, 20%, 50%, 80%, 100% {
-    transform: translateY(0);
-  }
-  40% {
-    transform: translateY(-10px);
-  }
-  60% {
-    transform: translateY(-5px);
-  }
-}
-
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.05);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
-@keyframes shake {
-  0%, 100% {
-    transform: translateX(0);
-  }
-  25% {
-    transform: translateX(-5px);
-  }
-  50% {
-    transform: translateX(5px);
-  }
-  75% {
-    transform: translateX(-5px);
-  }
-}
-</style>
