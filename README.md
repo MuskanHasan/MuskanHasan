@@ -25,6 +25,18 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/muskanhas
 
 ---
 
+### 📊 My Testing Stats
+<p align="left">
+    <img src="https://img.shields.io/badge/Test_Cases_Created-100-brightgreen" alt="Test Cases Created" />
+    <img src="https://img.shields.io/badge/Bug_Reports_Filed-25-orange" alt="Bug Reports Filed" />
+    <img src="https://img.shields.io/badge/Projects_Tested-5-blue" alt="Projects Tested" />
+    <img src="https://img.shields.io/badge/Manual_Testing-70%25-yellowgreen" alt="Manual Testing" />
+    <img src="https://img.shields.io/badge/Automation_Testing-30%25-lightblue" alt="Automation Testing" />
+    <img src="https://img.shields.io/badge/Hours_Spent_Testing-200-blue" alt="Hours Spent Testing" />
+</p>
+
+-----
+
 <h3>🔥 My Stats:</h3>
 <p>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=MuskanHasan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
