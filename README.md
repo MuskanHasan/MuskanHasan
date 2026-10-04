@@ -1,41 +1,73 @@
 # Hi, I'm Muskan Hasan 👋
 
-I am a Computer Science graduate and Software Quality Assurance Engineer with practical experience in manual and automation testing. I currently work as an Associate SQA Engineer at Interact CX, where I focus on software quality, UI and API automation, test case design, API validation, and release stability.
+### Software Quality Assurance Engineer | Automation Testing | Computer Science Graduate
 
-My experience includes working with web, mobile, and AI-based applications, using Playwright for automation, Postman for API testing, JIRA for defect management, and GitHub for version control and collaboration.
+I work in software quality assurance with a focus on **test automation, API testing, software reliability, and quality engineering**.
 
-I am especially interested in software quality, test automation, reliable systems, and Human-Computer Interaction.
-
----
-
-## 💼 Professional Experience
-
-### Associate SQA Engineer — Interact CX
-- Develop and maintain Playwright-based automation frameworks for UI and API testing
-- Design and execute manual and automated test cases
-- Perform API testing using Postman
-- Manage automation code using GitHub
-- Improve test coverage and release stability
-
-### Junior SQA Engineer — XTECSOFT
-- Performed manual, functional, regression, and integration testing
-- Tested web and mobile applications
-- Logged and tracked defects using JIRA
-- Collaborated with developers, clients, and QA teams
-- Tested an AI-based product across different use cases
-
-### SQA Intern — XTECSOFT
-- Assisted with manual testing and test execution
-- Reported and documented software defects
-- Supported regression testing and UAT activities
-- Gained practical experience in QA processes
+Currently working with **Playwright, Postman, JIRA, GitHub, TypeScript, and Python**, while continuing to strengthen my skills in automation and modern QA practices.
 
 ---
 
-## 🎓 Education
+## 🧪 What I Work On
 
-**Bachelor of Science in Computer Science**  
-Iqra University, Karachi
+- UI and API test automation
+- Manual and regression testing
+- Test case design and execution
+- API validation
+- Defect tracking and quality assurance
+- Improving test coverage and release stability
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="44" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="44" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="44" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="44" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="44" height="44"/>
+  </a>
+
+</p>
 
 ---
 
@@ -43,121 +75,86 @@ Iqra University, Karachi
 
 ### Vision Companion
 
-An assistive system developed for visually impaired individuals using object recognition, obstacle detection, health monitoring, and live location tracking.
+**Vision Companion** is an assistive system developed for visually impaired users to improve safety and independence in everyday environments.
 
-The system combines camera input, sensors, and a mobile application to improve user safety and support in daily life.
+The system combines **computer vision, sensors, health monitoring, and a mobile application** to provide real-time assistance.
 
-The project received recognition and funding through Ignite for its innovation and potential impact.
+### Key Features
 
----
+- Real-time object and obstacle detection
+- Voice alerts for nearby obstacles
+- Health monitoring using a heartbeat sensor
+- Live location tracking
+- Emergency notifications for guardians
+- Integration of camera input, sensors, and mobile software
 
-## 🧪 Quality Assurance Skills
-
-- Manual Testing
-- Automation Testing
-- UI Testing
-- API Testing
-- Functional Testing
-- Regression Testing
-- Integration Testing
-- Test Case Design
-- Defect Management
-- UAT
-- Agile QA
-- Software Quality Assurance
-
----
-
-## 🔧 Tools & Technologies
-
-<p align="left">
-
-  <a href="https://playwright.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="40" height="40"/>
-  </a>
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-
-</p>
-
----
-
-## 📜 Certifications
-
-### Advanced Playwright
-Test Automation University
-
-Advanced knowledge of end-to-end testing using Playwright, including test automation, cross-browser testing, and scripting for scalable test solutions.
-
-### Introduction to Playwright
-Test Automation University
-
-Built a foundation in Playwright, browser automation, test creation, and modern web testing concepts.
+The project gave me practical experience in combining **software, hardware, intelligent processing, and user-focused design** within one complete system.
 
 ---
 
 ## 💡 Other Projects
 
+### Vehicle Sensing Gateway
+
+An automated vehicle detection system built using **Arduino and HC-SR04 ultrasonic sensors**.
+
+The system uses real-time distance measurement to detect vehicle presence and demonstrates basic sensor-based monitoring and embedded system integration.
+
 ### Car Showroom Management System
-Gathered client requirements, performed manual testing, and developed detailed test cases to ensure functional accuracy and quality.
+
+A software project focused on understanding client requirements, validating system functionality, and ensuring quality through structured testing.
+
+My contribution included:
+- Requirement analysis
+- Manual testing
+- Functional validation
+- Test case design and documentation
 
 ### Auto Mobile Management System
-Worked on functional and non-functional requirements and created UML, sequence, workflow, and actor diagrams for automobile management processes.
 
-### Vehicle Sensing Gateway
-Designed an automated vehicle detection system using Arduino and an HC-SR04 ultrasonic sensor for real-time distance measurement and vehicle presence detection.
+A system analysis and design project focused on automating automobile management processes.
+
+The project included:
+- Functional and non-functional requirements
+- UML diagrams
+- Sequence diagrams
+- Workflow diagrams
+- Actor diagrams
 
 ---
 
-## 🌱 Currently Exploring
+## 📚 Currently Exploring
 
-- Advanced Test Automation
+- Advanced Playwright automation
+- API automation
 - Quality Engineering
-- Human-Computer Interaction
 - Software Reliability
-- User-Centred Product Quality
-- Research-oriented Software Evaluation
+- Human Computer Interaction
+
+---
+
+## 📜 Certifications
+
+- **Advanced Playwright** — Test Automation University
+- **Introduction to Playwright** — Test Automation University
 
 ---
 
 ## 🤝 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/muskanhasan/)
+<a href="https://www.linkedin.com/in/muskanhasan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Muskan%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Activity
 
-<p>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=MuskanHasan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuskanHasan&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanHasan&layout=compact&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanHasan&hide_border=true"/>
 </p>
