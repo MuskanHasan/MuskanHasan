@@ -145,5 +145,3 @@ The project included:
 <a href="https://www.linkedin.com/in/muskanhasan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Muskan%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-eadme-streak-stats.herokuapp.com/?user=MuskanHasan&hide_border=true"/>
-</p>
