@@ -145,16 +145,5 @@ The project included:
 <a href="https://www.linkedin.com/in/muskanhasan/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Muskan%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuskanHasan&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuskanHasan&layout=compact&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuskanHasan&hide_border=true"/>
+eadme-streak-stats.herokuapp.com/?user=MuskanHasan&hide_border=true"/>
 </p>
