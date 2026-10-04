@@ -2,9 +2,9 @@
 
 ### Software Quality Assurance Engineer | Automation Testing | Computer Science Graduate
 
-I work in software quality assurance with a focus on **test automation, API testing, software reliability, and quality engineering**.
+I’m a Software Quality Assurance Engineer focused on test automation, API testing, regression testing, and software reliability. My work involves designing and maintaining automated test frameworks, validating APIs, creating and executing test cases, and improving test coverage across web applications.
 
-Currently working with **Playwright, Postman, JIRA, GitHub, TypeScript, and Python**, while continuing to strengthen my skills in automation and modern QA practices.
+I work primarily with Playwright, Postman, JIRA, and GitHub, and I’m continuously strengthening my skills in modern QA automation practices. I’m especially interested in building stable automation solutions, improving release quality, and making testing more efficient, maintainable, and reliable throughout the software development lifecycle.
 
 ---
 
@@ -45,11 +45,6 @@ Currently working with **Playwright, Postman, JIRA, GitHub, TypeScript, and Pyth
 
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
