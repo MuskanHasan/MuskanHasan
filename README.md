@@ -22,46 +22,14 @@ I work primarily with Playwright, Postman, JIRA, and GitHub, and I’m continuou
 ## 🛠️ Tech Stack
 
 <p align="left">
-
-  <a href="https://playwright.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="44" height="44"/>
-  </a>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" width="44" height="44"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="44" height="44"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="JIRA" width="44" height="44"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="44" height="44"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="44" height="44"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="44" height="44"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="44" height="44"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="44" height="44"/>
 </p>
 
 ---
